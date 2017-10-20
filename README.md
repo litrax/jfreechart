@@ -1,3 +1,6 @@
+
+[![Build Status](https://api.travis-ci.org/litrax/jfreechart.png)](https://travis-ci.org/litrax/jfreechart)
+
 JFreeChart
 ==========
 
