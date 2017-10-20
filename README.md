@@ -1,5 +1,6 @@
 
-[![Build Status](https://api.travis-ci.org/litrax/jfreechart.png)](https://travis-ci.org/litrax/jfreechart)
+[![Build Status](https://api.travis-ci.org/litrax/jfreechart.png)](https://travis-ci.org/litrax/jfreechart)  [![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.jfree/jfreechart/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.jfree/jfreechart)
+
 
 JFreeChart
 ==========
